@@ -21,4 +21,4 @@ To run this repo on your computer please follow these instructions:
 Feel free to make pull requests. For modification, please open an issue to discuss what you would like to change.
 
 # License
-<a href ="LICENCE">MIT<a
+<a href ="LICENCE">MIT<a>
